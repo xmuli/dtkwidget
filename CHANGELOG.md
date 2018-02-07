@@ -1,3 +1,13 @@
+<a name="2.0.6.2"></a>
+## 2.0.6.2 (2018-02-07)
+
+
+#### Features
+
+*   support new and legacy dman interface ([53431c30](https://github.com/linuxdeepin/dtkwidget/commit/53431c30d8010eea1708f8d5fb446cbd1ae01d5d))
+
+
+
 <a name="2.0.6.1"></a>
 ## 2.0.6.1 (2018-01-30)
 
